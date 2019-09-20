@@ -1,0 +1,45 @@
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\bin\Debug\AHBS.exe.config
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\bin\Debug\AHBS.exe
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\bin\Debug\AHBS.pdb
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.csprojResolveAssemblyReference.cache
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.FrmGiris.resources
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.Properties.Resources.resources
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.csproj.GenerateResource.Cache
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.exe
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.pdb
+c:\users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.AnaForm.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.DoktorİslemForm.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.DoktorEkle.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.Hastaislemform.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.HastaEkle.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.Muayeneislemform.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.HastaMuayene.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.HastaKabulForm.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.HKabulMuayeneKaydetme.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.TanıEkle.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.İstemEkleme.resources
+C:\Users\turgut\documents\visual studio 2015\Projects\AHBS\AHBS\obj\Debug\AHBS.İlacEkleme.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\bin\Debug\AHBS.exe.config
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\bin\Debug\AHBS.exe
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\bin\Debug\AHBS.pdb
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.AnaForm.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.DoktorEkle.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.DoktorİslemForm.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.FrmGiris.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.HastaEkle.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.Hastaislemform.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.HastaKabulForm.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.HastaMuayene.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.HKabulMuayeneKaydetme.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.Muayeneislemform.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.Properties.Resources.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.TanıEkle.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.İlacEkleme.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.İstemEkleme.resources
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.csproj.GenerateResource.Cache
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.exe
+D:\Yeni klasör\12.10.2018\Projects\AHBS\AHBS\obj\Debug\AHBS.pdb
+C:\Users\turgut\Desktop\Projects\AHBS\AHBS\bin\Debug\AHBS.exe.config
+C:\Users\turgut\Desktop\Projects\AHBS\AHBS\obj\Debug\AHBS.exe
+C:\Users\turgut\Desktop\Projects\AHBS\AHBS\obj\Debug\AHBS.pdb
